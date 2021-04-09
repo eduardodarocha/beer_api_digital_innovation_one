@@ -5,8 +5,9 @@ Foram apresentados os conceitos de testar, unitariamente, uma API REST para o ge
 Durante a sessão, foram abordados os seguintes tópicos:
 
 * Baixar um projeto através do Git para desenolver nossos testes unitários. 
-* Apresentação conceitual sobre testes: a pirâmide dos tipos de testes, e também a importância de cada tipo de teste durante o ciclo de desenvolvimento.
+* Apresentação conceitual sobre testes: a pirâmide dos tipos de testes de software (Unit Tests, Integration Tests e UI Tests), detalhes de  cada nível e também a importância de cada tipo de teste durante o ciclo de desenvolvimento.
 * Foco nos testes unitários: mostrar o porque é importante o desenvolvimento destes tipos de testes como parte do ciclo de desenvolvimento de software.
+* API RESTful - Modelo de maturidade de Richardson
 * Principais frameworks para testes unitários em Java: JUnit, Mockito e Hamcrest. 
 * Desenvolvimento de testes unitários para validação de funcionalides básicas: criação, listagem, consulta por nome e exclusão de cervejas.
 * TDD: apresentação e exemplo prático em 2 funcionaliades importantes: incremento e decremento do número de cervejas no estoque.
@@ -51,6 +52,4 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Referência pirâmide de testes - Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
 
 [Neste link](https://drive.google.com/file/d/1KPh19mvyKirorOI-UsEYHKkmZpet3Ks6/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
-
-
 
